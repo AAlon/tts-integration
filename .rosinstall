@@ -1,1 +1,1 @@
-- git: {local-name: src/deps/tts-ros2, uri: 'https://github.com/aws-robotics/tts-ros2', version: ros2-test-fixes}
+- git: {local-name: src/deps/tts-ros2, uri: 'https://github.com/aws-robotics/tts-ros2', version: launch-dependencies}
