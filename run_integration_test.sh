@@ -26,6 +26,6 @@ fi
 source ${upstream_workspace}/install/local_setup.bash
 
 echo "Running tts_integration.py"
-launch_test tts_integration.py
+launch_test $(find ${upstream_workspace} -name "tts_integration.py")
 exit_code=$?
 exit ${exit_code}
